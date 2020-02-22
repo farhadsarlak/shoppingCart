@@ -1,6 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+این یک برنامه ساده جهت نحوه کار سبد خرید و اضافه کردن ، حذف کردن محصولات با استفاده از:
+redux 
+semantic-ui-react
+reselect
+redux-thunk
+redux-persist
 
-![](src/assets/TodoApp.jpg)
+![](src/assets/shoppingCart.jpg)
 
 ## Available Scripts
 
