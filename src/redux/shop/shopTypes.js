@@ -1,0 +1,7 @@
+const shopActionTypes={
+    FETCH_PRODUCT_START  :'FETCH_PRODUCT_START',
+    FETCH_PRODUCT_SUCCESS:'FETCH_PRODUCT_SUCCESS',
+    FETCH_PRODUCT_ERROR  :'FETCH_PRODUCT_ERROR'
+};
+
+export default shopActionTypes;

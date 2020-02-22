@@ -1,0 +1,17 @@
+.textLeft{
+    text-align: left !important;
+    font-weight: bold !important;
+}
+.padding{
+    margin: 0 auto !important;
+}
+.cart-header-productOffer{
+    font-weight: normal!important;
+    font-size: 14px!important;
+    direction: rtl!important;
+    text-align: justify!important;
+}
+
+.cart-header-productOffer:hover{
+    color: teal!important;
+}

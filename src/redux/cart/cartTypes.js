@@ -1,5 +1,8 @@
 export const cartTypes={
     ADD_TO_CART_ITEM     : 'ADD_TI_CART_ITEM',
     REMOVE_FROM_CART_ITEM: 'REMOVE_FROM_CART_ITEM',
-    DEC_ITEM: 'DEC_ITEM'
+    DEC_ITEM: 'DEC_ITEM',
+
+    MOUSE_IN : 'MOUSE_IN',
+    MOUSE_OUT: 'MOUSE_OUT'
 };

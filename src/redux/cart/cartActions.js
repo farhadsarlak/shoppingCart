@@ -14,3 +14,11 @@ export const decrement= item=>({
    type:cartTypes.DEC_ITEM,
    payload:item
 });
+
+export const mouseIn = () =>({
+   type: cartTypes.MOUSE_IN
+})
+
+export const mouseOut = () =>({
+   type: cartTypes.MOUSE_OUT
+});
