@@ -2,337 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ebe02a83-22e5-4051-8c06-fd240e106d0f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/assets/images/advertising/Advertising1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/advertising/Advertising1_.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/advertising/Advertising2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/advertising/Advertising2_.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/advertising/Advertising3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/advertising/Advertising3_.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/advertising/Advertising4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/advertising/Advertising4_.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/advertising/Advertising5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/advertising/Advertising6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/advertising/Advertising7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/advertising/Advertising8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/advertising/Advertising_banner.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/banner1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/emptyCart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/footer/footer1.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/footer/footer2.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/footer/footer3.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/footer/footer4.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/footer/footer5.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/productSliderBackground/background-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/productSliderBackground/background-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/1/4/product_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/1/4/product_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/1/4/product_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/1/4/product_4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/1/4/product_5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/1/5/product_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/1/5/product_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/1/5/product_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/1/5/product_4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/1/5/product_5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/1/6/product_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/1/6/product_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/10/28/product_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/10/28/product_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/10/28/product_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/10/28/product_4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/10/28/product_5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/10/28/product_6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/10/28/product_7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/10/29/product_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/10/29/product_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/10/29/product_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/10/29/product_4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/10/29/product_5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/10/29/product_6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/10/29/product_7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/10/30/product_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/10/30/product_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/10/30/product_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/10/30/product_4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/10/30/product_5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/10/30/product_6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/10/30/product_7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/11/31/product_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/11/31/product_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/11/31/product_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/11/31/product_4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/11/32/product_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/11/32/product_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/11/32/product_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/11/32/product_4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/11/33/product_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/11/33/product_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/11/33/product_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/11/33/product_4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/12/33/product_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/12/33/product_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/12/33/product_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/12/33/product_4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/12/33/product_5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/12/33/product_6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/12/33/product_7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/12/34/product_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/12/34/product_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/12/34/product_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/12/34/product_4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/12/34/product_5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/12/34/product_6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/12/34/product_7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/12/35/product_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/12/35/product_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/12/35/product_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/12/35/product_4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/12/35/product_5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/12/35/product_6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/12/35/product_7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/13/36/product_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/13/36/product_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/13/36/product_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/13/36/product_4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/13/37/product_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/13/38/product_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/13/38/product_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/13/38/product_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/13/38/product_4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/14/39/product_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/14/39/product_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/14/39/product_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/14/39/product_4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/14/39/product_5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/14/39/product_6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/14/39/product_7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/14/40/product_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/14/40/product_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/14/40/product_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/14/41/product_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/14/41/product_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/14/41/product_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/14/41/product_4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/14/41/product_5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/15/42/product_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/15/42/product_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/15/43/product_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/15/43/product_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/15/44/product_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/16/45/product_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/16/45/product_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/16/45/product_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/16/45/product_4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/16/45/product_5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/16/46/product_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/16/47/product_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/2/1/product_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/2/1/product_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/2/1/product_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/2/1/product_4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/2/1/product_5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/2/2/product_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/2/2/product_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/2/2/product_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/2/2/product_4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/2/2/product_5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/2/3/product_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/2/3/product_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/2/3/product_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/2/3/product_4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/2/3/product_5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/2/3/product_6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/3/7/product_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/3/7/product_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/3/7/product_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/3/7/product_4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/3/7/product_5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/3/8/product_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/3/8/product_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/3/8/product_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/3/8/product_4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/3/8/product_5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/3/8/product_6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/3/8/product_7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/3/9/product_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/3/9/product_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/3/9/product_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/3/9/product_4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/3/9/product_5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/3/9/product_6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/3/9/product_7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/4/10/product_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/4/10/product_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/4/10/product_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/4/10/product_4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/4/10/product_5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/4/10/product_6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/4/10/product_7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/4/11/product_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/4/11/product_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/4/11/product_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/4/11/product_4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/4/11/product_5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/4/11/product_6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/4/11/product_7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/4/12/product_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/4/12/product_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/4/12/product_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/4/12/product_4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/4/12/product_5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/4/12/product_6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/4/12/product_7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/5/13/product_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/5/13/product_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/5/13/product_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/5/13/product_4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/5/13/product_5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/5/13/product_6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/5/13/product_7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/5/14/product_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/5/14/product_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/5/14/product_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/5/14/product_4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/5/14/product_5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/5/14/product_6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/5/14/product_7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/5/15/product_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/5/15/product_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/5/15/product_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/5/15/product_4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/6/16/product_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/6/16/product_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/6/16/product_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/6/16/product_4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/6/16/product_5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/6/16/product_6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/6/16/product_7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/6/17/product_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/6/17/product_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/6/17/product_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/6/17/product_4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/6/17/product_5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/6/17/product_6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/6/17/product_7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/6/18/product_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/6/18/product_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/6/18/product_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/6/18/product_4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/6/18/product_5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/6/18/product_6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/6/18/product_7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/7/19/product_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/7/19/product_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/7/19/product_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/7/20/product_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/7/20/product_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/7/20/product_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/7/20/product_4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/7/20/product_5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/7/20/product_6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/7/20/product_7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/7/21/product_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/7/21/product_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/7/21/product_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/7/21/product_4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/8/22/product_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/8/22/product_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/8/22/product_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/8/22/product_4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/8/22/product_5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/8/22/product_6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/8/22/product_7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/8/23/product_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/8/23/product_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/8/23/product_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/8/23/product_4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/8/23/product_5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/8/23/product_6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/8/23/product_7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/8/24/product_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/8/24/product_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/8/24/product_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/8/24/product_4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/8/24/product_5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/8/24/product_6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/8/24/product_7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/9/25/product_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/9/25/product_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/9/25/product_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/9/25/product_4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/9/25/product_5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/9/25/product_6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/9/25/product_7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/9/26/product_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/9/26/product_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/9/26/product_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/9/26/product_4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/9/26/product_5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/9/26/product_6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/9/26/product_7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/9/27/product_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/9/27/product_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/9/27/product_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/9/27/product_4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/9/27/product_5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/9/27/product_6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/products/9/27/product_7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/shopping-bag.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/slider/slider1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/slider/slider2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/slider/slider3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/slider/slider4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/slider/slider5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/slider/slider6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/submenu/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/submenu/10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/submenu/11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/submenu/12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/submenu/13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/submenu/14.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/submenu/15.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/submenu/16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/submenu/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/submenu/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/submenu/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/submenu/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/submenu/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/submenu/7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/submenu/8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/submenu/9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/user.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/desktop/components/header/Header.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/desktop/components/viewProducts/Product.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/desktop/components/viewProducts/ProductItem.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/desktop/components/viewProducts/ViewProducts.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/desktop/pages/home/Home.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/desktop/pages/home/Home.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/desktop/pages/product/Product.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/mobile/pages/Home.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/shoppingCart/cartDropDown/CartDropDown.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/shoppingCart/cartDropDown/CartDropDown.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/shoppingCart/cartIcon/CartIcon.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/shoppingCart/cartIcon/CartIcon.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/shoppingCart/cartItem/CartItem.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/shoppingCart/cartItem/CartItem.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/redux/shop/shopActions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/redux/shop/shopReducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/redux/shop/shopSelector.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/redux/shop/shopTypes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/shoppingCart.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/desktop/DesktopContainer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/desktop/DesktopContainer.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/desktop/components/header/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/desktop/components/header/Header.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/desktop/pages/Home.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/mobile/MobileContainer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/mobile/MobileContainer.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redux/Store.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/Store.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redux/cart/cartActions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/cart/cartActions.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redux/cart/cartReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/cart/cartReducer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redux/cart/cartTypes.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/cart/cartTypes.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redux/rootReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/rootReducer.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -375,7 +46,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/desktop/components/viewProducts/ProductItem.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="333">
+            <state relative-caret-position="19">
               <caret line="60" column="28" selection-start-line="60" selection-start-column="28" selection-end-line="60" selection-end-column="28" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
@@ -496,6 +167,12 @@
               <item name="shopping-cart" type="b2602c69:ProjectViewProjectNode" />
               <item name="shopping-cart" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shopping-cart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shopping-cart" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="components" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -602,6 +279,7 @@
       <recent name="E:\Learning\react\pro\shopping-cart\src\components\desktop" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Learning\react\pro\shopping-cart\src\assets" />
       <recent name="E:\Learning\react\pro\shopping-cart\public\assets" />
       <recent name="E:\Learning\react\pro\shopping-cart\public\assets\images" />
       <recent name="E:\Learning\react\pro\shopping-cart" />
@@ -630,24 +308,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582299958583</updated>
-      <workItem from="1582299961419" duration="21040000" />
+      <workItem from="1582299961419" duration="24498000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21040000" />
+    <option name="totallyTimeSpent" value="24498000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="npm" order="0" side_tool="true" />
       <window_info id="Favorites" order="1" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.24884793" />
+      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.24884793" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="1" />
       <window_info anchor="bottom" id="Version Control" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="3" weight="0.47686833" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.77046263" />
       <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" weight="0.3291815" />
@@ -955,7 +632,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/desktop/components/viewProducts/ProductItem.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
+        <state relative-caret-position="19">
           <caret line="60" column="28" selection-start-line="60" selection-start-column="28" selection-end-line="60" selection-end-column="28" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
